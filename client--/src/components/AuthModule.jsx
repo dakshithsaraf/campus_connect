@@ -207,7 +207,7 @@ export default function AuthModule({ initialMode = 'login' }) {
                   type="text"
                   id="name"
                   required
-                  placeholder="e.g. Nishit Sharma"
+                  placeholder="e.g. Dakshith Saraf"
                   value={formData.name}
                   onChange={handleChange}
                 />

@@ -167,7 +167,7 @@ exports.getEnrolledStudents = async (req, res) => {
 
     if (students.length === 0) {
       students = [
-        { id: 'std-1', name: 'Nishit Patel', usn: '1RUA24SCS0068', branch: 'SoCSE', email: 'patelnishitkumarbsc24@rvu.edu.in' },
+        { id: 'std-1', name: 'Dakshith Saraf', usn: '1RUA24SCS0068', branch: 'SoCSE', email: 'dakshithsaraf@rvu.edu.in' },
         { id: 'std-2', name: 'Aarav Sharma', usn: '1RV22CS014', branch: 'SoCSE', email: 'aarav@rvu.edu.in' },
         { id: 'std-3', name: 'Diya Reddy', usn: '1RV22CS032', branch: 'SoCSE', email: 'diya@rvu.edu.in' },
         { id: 'std-4', name: 'Rohan Verma', usn: '1RV22CS085', branch: 'SoCSE', email: 'rohan@rvu.edu.in' }
